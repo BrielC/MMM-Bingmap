@@ -5,6 +5,10 @@ Requirements
 `
 Bing API
 `
+Create an account to accuire an api
+```
+https://www.bingmapsportal.com/
+```
 
 Use static map maker to establish the size and location
 ```
