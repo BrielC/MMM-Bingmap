@@ -10,3 +10,11 @@ Use static map maker to establish the size and location
 ```
 https://staticmapmaker.com/bing/
 ```
+
+Config
+```
+{
+    module: "MMM-BingMap",
+    config: {
+            }
+},
