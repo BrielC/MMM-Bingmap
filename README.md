@@ -45,4 +45,4 @@ https://staticmapmaker.com/bing/
 			text_b: 'W'
 				}
 },
-
+```
