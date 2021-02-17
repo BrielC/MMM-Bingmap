@@ -52,3 +52,6 @@ https://staticmapmaker.com/bing/
 ![Bingmap](https://user-images.githubusercontent.com/52597141/108243130-688b0700-7156-11eb-82a0-e285c1364c6a.jpg)
 
 ```
+![Bingmap](https://user-images.githubusercontent.com/52597141/108243130-688b0700-7156-11eb-82a0-e285c1364c6a.jpg)
+```
+
