@@ -1,14 +1,6 @@
 # MMM-Bingmap
 Traffic map based on Bing Map
 
-## Installation
-Open a terminal session and execute 
-```
-cd ~/MagicMirror/modules
-git clone https://github.com/BrielC/MMM-Bingmap
-
-No installation needed
-```
 ## Requirements
 `
 Bing API
@@ -17,11 +9,18 @@ Create an account to accuire an api
 ```
 https://www.bingmapsportal.com/
 ```
-
 Use static map maker to establish the size and location
 ```
 https://staticmapmaker.com/bing/
 ```
+## Installation
+Open a terminal session and execute 
+```
+cd ~/MagicMirror/modules
+git clone https://github.com/BrielC/MMM-Bingmap
+```
+No installation needed
+`
 
 ## Config
 ```
