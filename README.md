@@ -49,6 +49,6 @@ https://staticmapmaker.com/bing/
 ## Screenshot
 ```
 ```
-![Bingmap](https://user-images.githubusercontent.com/52597141/108243130-688b0700-7156-11eb-82a0-e285c1364c6a.jpg)
+![Bing](https://user-images.githubusercontent.com/52597141/108409102-7ad87400-722e-11eb-8316-8568b615c7be.jpg)
 ```
 
