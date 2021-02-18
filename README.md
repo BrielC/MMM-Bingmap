@@ -5,7 +5,9 @@ Traffic map based on Bing Map
 Open a terminal session and execute 
 ```
 cd ~/MagicMirror/modules
-git clone https://github.com/BrielC/MMM-Bingmap.git
+git clone https://github.com/BrielC/MMM-Bingmap
+
+No installation needed
 ```
 ## Requirements
 `
@@ -27,12 +29,12 @@ https://staticmapmaker.com/bing/
             module: 'MMM-Bingmap',
             position: 'bottom_bar',
             config: {
-		    latitude: '-26.0460', 	    // Centre of Map. Use Google 
-		    longitude: '28.0131', 
-		    mapzoom: '13', 		        // 1 - 21
+		    	latitude: '-26.0460', 	    	// Centre of Map
+		    	longitude: '28.0131', 
+		    	mapzoom: '13', 		  	// 1 - 21
 			map_width: '1300',
-		    map_hight: '420', 	
-		    appid: '',                  // Your Bing maps api key - 64 caracters
+		    	map_hight: '420', 	
+		    	appid: '',                  	// Your Bing maps api key - 64 caracters
 	//		**** PushPin A ****
 			lat_a: '-26.0669',
 			lon_a: '27.9590',
